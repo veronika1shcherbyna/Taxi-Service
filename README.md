@@ -1,5 +1,5 @@
-"# Taxi-Service"<br>
-<br>
+# Taxi-Service
+<img src="https://img.freepik.com/free-vector/three-dimensional-image-of-taxi-car-isolated-on-white-background_53876-12109.jpg?size=626&ext=jpg" >
 A prototype of an online taxi service. <br>
 You can simply register new drivers, add new cars and manufacturers, where cars were made, and add these cars to yours drivers. </br>
 In this project used N-tier architecture with DB layer, DAO layer, Service layer, Controllers layer and View layer.
