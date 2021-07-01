@@ -3,7 +3,7 @@
 A prototype of an online taxi service. <br>
 You can simply register new drivers, add new cars and manufacturers, where cars were made, and add these cars to yours drivers. </br>
 In this project used N-tier architecture with DB layer, DAO layer, Service layer, Controllers layer and View layer.
-Project was developed according to SOLID principles with authorization and authentication.
+Project was developed according to SOLID principles with users authentication.
 
 <h3>Technologies used:</h3>
 <ul>
